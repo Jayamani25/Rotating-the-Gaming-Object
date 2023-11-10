@@ -37,8 +37,7 @@ To add our C# Script file to our selected object, click on the C# Script file an
 Stop
 
 ## Program:
-Name:Jayamani.R
-Reg no:212222100014
+
 ```C#
 using System.Collections;
 using System.Collections.Generic;
